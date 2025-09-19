@@ -1,0 +1,199 @@
+# Owen Zanzal
+
+## Professional Summary
+
+Owen Zanzal is a Principal Cloud and Agentic Ops Engineer at Shoplogix with over a decade of experience in DevOps, cloud infrastructure, and AI/ML operations. He is a pioneer in the emerging field of "AgenticOps" - the application of DevOps principles to AI agents in production environments.
+
+## Current Role & Company
+
+**Principal Cloud and Agentic Ops Engineer** at Shoplogix (September 2025 - Present)
+- Designs and scales resilient cloud platforms
+- Pioneers AgenticOps practices for AI agent deployment and monitoring
+- Focuses on building secure, cost-efficient systems
+- Creates frameworks for deploying, monitoring, and improving intelligent agents
+- Bridges traditional infrastructure needs with agent-driven operations
+
+## Business & Consulting
+
+**Owner of O3Cloud** (August 2024 - Present)
+- DevOps and AgenticOps consulting services
+- Over 10 years of experience in the field
+- Helps organizations streamline software development and deployment processes
+- Specializes in effective DevOps practices and emerging AI operations
+
+## Key Projects & Contributions
+
+### pAI (Personal AI) (July 2025 - Present)
+*Associated with O3Cloud*
+- Open-source framework for building personalized teams of intelligent agents
+- Agents designed to understand unique workflows and automate tasks, decisions, and processes
+- Leverages GitHub Actions and integrates with services like Gmail
+- Streamlines both personal and professional activities
+- Repository: GitHub - o3-cloud/pAI
+- Skills: Artificial Intelligence (AI), Large Language Models (LLM), Agents, GitHub, GitHub Actions
+
+### Cville AI Explorers (February 2025 - Present)
+*Associated with O3Cloud*
+- Community of builders, learners, and enthusiasts focused on creating practical AI applications and tools
+- Mission to foster AI building skills through hands-on projects, technical sharing, and collaborative learning
+- Helps people discover practical ways to integrate AI tools into work and daily lives
+- Emphasizes active building and practical integration over theoretical knowledge
+- Explores emerging AI technologies to enhance productivity and creativity
+- Skills: Artificial Intelligence (AI)
+
+### CMD | LLM (cllm) Toolkit (June 2024 - Present)
+*Associated with O3Cloud*
+- Command line tool for interfacing with LLM models
+- Simple and easy-to-use tool for generating text from prompts
+- Includes suite of tools for interfacing with cllm output to build complex prompt chaining processes
+- Repository: GitHub - o3-cloud/cllm
+- Skills: Python (Programming Language), Large Language Models (LLM)
+
+### beCamp 2024 co-organizer (June 2024 - Present)
+- Co-organizes Charlottesville tech conference planned by attendees
+- Unconference format where attendees nominate and vote on topics
+- Community-driven scheduling and content curation
+- Promotes collaborative learning and knowledge sharing in the local tech community
+
+### Stallabella - A Tale of Playfulness and Punctuality (April 2024 - Present)
+*Associated with O3Cloud*
+- AI-assisted children's book project inspired by his daughter
+- Used ChatGPT for story writing and MidJourney for illustrations
+- Explored animation using RunwayML to bring story to life
+- Added text-to-speech narration and video editing
+- Documents the creative process to inspire others to explore AI tools
+- Personal exploration of AI in creative and hobby applications
+- Skills: Artificial Intelligence (AI), Publishing
+
+### CvilleFPV (February 2015 - Present)
+- Founded and co-organizes regular FPV (First Person View) meetup group in Charlottesville, VA
+- Focuses on multicopter racing and freestyle flying
+- Welcomes FPV pilots of all kinds
+- Regular weekly meetings (weather permitting)
+- Long-running community building effort in the maker/tech space
+
+### Early AI Experiments (2022)
+- First children's book project using ChatGPT and MidJourney
+- Early adopter of AI creative tools
+- Demonstrates long-term interest in practical AI applications
+
+### Recent Speaking & Thought Leadership
+- Speaker at DevOpsDays DC on AI and DevOps topics
+- Advocates for LLMs.txt adoption in projects for better agent documentation
+- Promotes explicit context control in LLM applications over dynamic tool calling
+- Emphasizes transparency and control in AI implementations
+
+## Technical Expertise
+
+### Programming Languages
+- Golang
+- Python
+- JavaScript
+- Bash scripting
+
+### Cloud & Infrastructure
+- AWS (expert level)
+- Timescale
+- Aiven
+- Infrastructure-as-Code (IaC)
+- Terraform
+- Taskfile
+- GitLab CI/CD
+
+### Specializations
+- Large Language Models (LLMs)
+- Artificial Intelligence (AI)
+- Agents and AgenticOps
+- DevOps and SRE
+- Cloud Management
+- Software Testing
+- Information Security
+- SOC2 compliance
+
+## Professional Experience
+
+### Previous Roles
+- **Senior DevOps Engineer** at GameChanger (October 2024 - August 2025)
+- **Principal Software Engineer** at Everactive (February 2023 - August 2024)
+- **Senior Staff Engineer** at Everactive (August 2020 - April 2023)
+- **Operations Engineer** at Roomkey (November 2016 - June 2020)
+
+### Key Achievements
+- Built highly efficient CI/CD automation pipelines
+- Instrumental in SOC2 certification programs
+- Significantly reduced cloud spend and operational costs
+- Designed infrastructure for complete IoT systems
+- Enhanced SRE tools for observability and troubleshooting
+
+## Content & Learning
+
+### Personal Blog
+Writes on Medium at https://medium.com/devops-ai, sharing ideas and thoughts on DevOps and AI integration.
+
+### Key Influencers & Blogs
+- **Simon Willison** (https://simonwillison.net/) - AI and technology insights
+- **Daniel Miessler** - Security, AI, and human augmentation (referenced in speaking engagements)
+
+### Podcast Consumption
+Stays current through:
+- a16z Podcast
+- AI + a16z
+- Beyond the Prompt – How to Use AI in Your Company
+- How I AI
+- Latent Space: The AI Engineer Podcast
+- Lenny's Podcast: Product | Career | Growth
+- Unsupervised Learning (Daniel Miessler)
+- Y Combinator Startup Podcast
+
+### Newsletter Subscriptions
+Follows industry thought leaders through Substack:
+- Elite AI Assisted Coding
+- Latent.Space
+- Lenny's Newsletter
+- Product Growth
+- Rational Optimist Society
+- Techquity Takes
+- Unwind AI
+
+### 📚 Reading List
+Current and recent technical reading focus:
+- **Designing Data-Intensive Applications, 2nd Edition** by Martin Kleppmann, Chris Riccomini
+- **Building Microservices, 2nd Edition** by Sam Newman
+- **Observability Engineering** by Charity Majors, Liz Fong-Jones, George Miranda
+- **Prompt Engineering for LLMs** by John Berryman, Albert Ziegler
+- **AI First: The Playbook for a Future-Proof Business and Brand** by Adam Brotman, Andy Sack
+
+## Education & Background
+
+- **Bachelor's Degree** in Graphic Design, American InterContinental University (2004-2006)
+- **Associate's Degree** in Graphic Design, Gibbs College (2000-2003)
+- Located in Charlottesville, Virginia, United States
+- Works remotely
+
+## Philosophy & Approach
+
+Owen is passionate about:
+- Fostering collaboration between development and operations
+- Mentorship and promoting best practices
+- Ensuring team growth and operational excellence
+- Building practical AI applications and tools
+- Transparency and control in AI implementations
+- Cost-efficient, secure system design
+- Knowledge sharing and community building
+
+## Professional Values
+
+- Commitment to continuous learning and staying current with emerging technologies
+- Focus on practical implementation over theoretical concepts
+- Emphasis on building sustainable, scalable solutions
+- Strong belief in transparency, especially regarding AI costs and context management
+- Dedication to mentoring and developing team members
+- Advocacy for open-source solutions and community collaboration
+
+## Contact & Professional Presence
+
+- **LinkedIn**: linkedin.com/in/owenzanzal
+- **GitHub**: https://github.com/o3-cloud (O3Cloud organization with pAI, cllm, and other projects)
+- **Calendar**: https://cal.com/owen.zanzal/30min (30-minute meeting bookings)
+- **Location**: Charlottesville, Virginia, United States (Remote work)
+- **Availability**: Open to consulting and collaboration opportunities through O3Cloud
