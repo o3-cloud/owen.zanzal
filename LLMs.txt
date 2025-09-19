@@ -188,6 +188,6 @@ Owen is passionate about:
 - **LinkedIn**: [linkedin.com/in/owenzanzal](https://www.linkedin.com/in/owenzanzal)  
 - **GitHub**: [github.com/o3-cloud](https://github.com/o3-cloud) (O3Cloud organization with pAI, cllm, and other projects)  
 - **Medium**: [medium.com/devops-ai](https://medium.com/devops-ai)  
-- **Calendar**: [cal.com/owen.zanzal/30min](https://cal.com/owen.zanzal/30min) (30-minute meeting bookings)  
+- **Meeting Calendar**: [cal.com/owen.zanzal/30min](https://cal.com/owen.zanzal/30min) (30-minute meeting bookings)  
 - **Location**: Charlottesville, Virginia, United States (Remote work)  
 - **Availability**: Open to consulting and collaboration opportunities through O3Cloud  
