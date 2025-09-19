@@ -27,6 +27,7 @@ Owen Zanzal is a [Principal Cloud and Agentic Ops Engineer at Shoplogix](https:/
 - Leverages GitHub Actions and integrates with services like Gmail  
 - Streamlines both personal and professional activities  
 - Repository: [GitHub - o3-cloud/pAI](https://github.com/o3-cloud/pAI)  
+- Artifact Specs: [GitHub - o3-cloud/artifact-specs](https://github.com/o3-cloud/artifact-specs) - Structured AI output framework with 14 specialized extractors for transforming unstructured content into actionable JSON data  
 - Skills: Artificial Intelligence (AI), Large Language Models (LLM), Agents, GitHub, GitHub Actions  
 
 ### Cville AI Explorers (February 2025 - Present)  
